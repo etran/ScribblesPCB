@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Common-Parts-Library)(type Legacy)(uri "$(KIPRJMOD)/lib_fp.pretty/Common-Parts-Library.mod")(options "")(descr ""))
+  (lib (name VQFN-ATMEGA328P-MU)(type Legacy)(uri "$(KIPRJMOD)/lib_fp.pretty/ATMEGA328P-MU.mod")(options "")(descr ""))
+  (lib (name BNO055)(type Legacy)(uri "$(KIPRJMOD)/lib_fp.pretty/BNO055.mod")(options "")(descr ""))
+)
