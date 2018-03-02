@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name lib_fp)(type KiCad)(uri "$(KIPRJMOD)/lib_fp.pretty")(options "")(descr ""))
+  (lib (name ECS-.327-12.5-34B-TR)(type Legacy)(uri "$(KIPRJMOD)/lib_fp.pretty/ECS-.327-12.5-34B-TR.mod")(options "")(descr ""))
 )
