@@ -1,4 +1,4 @@
-update=2018-02-11 5:17:59 PM
+update=2018-03-03 6:21:39 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,5 @@ LibName31=contrib
 LibName32=valves
 LibName33=lib_sch/Common-Parts-Library
 LibName34=lib_sch/BNO055
+LibName35=lib_sch/ABM3B-8.000MHZ-B2-T
+LibName36=lib_sch/CSTCE8M00G55-R0

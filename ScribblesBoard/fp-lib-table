@@ -2,4 +2,6 @@
   (lib (name Common-Parts-Library)(type Legacy)(uri "$(KIPRJMOD)/lib_fp.pretty/Common-Parts-Library.mod")(options "")(descr ""))
   (lib (name VQFN-ATMEGA328P-MU)(type Legacy)(uri "$(KIPRJMOD)/lib_fp.pretty/ATMEGA328P-MU.mod")(options "")(descr ""))
   (lib (name BNO055)(type Legacy)(uri "$(KIPRJMOD)/lib_fp.pretty/BNO055.mod")(options "")(descr ""))
+  (lib (name ABM3B-8.000MHZ-B2-T)(type Legacy)(uri "$(KIPRJMOD)/lib_fp.pretty/ABM3B-8.000MHZ-B2-T.mod")(options "")(descr ""))
+  (lib (name CSTCE8M00G55-R0)(type Legacy)(uri "$(KIPRJMOD)/lib_fp.pretty/CSTCE8M00G55-R0.mod")(options "")(descr ""))
 )
